@@ -12,17 +12,15 @@ public class Calculator {
         return a - b;
     }
 
-    // Multiplies two integers and returns the product.
-    public int multiply(int a, int b) {
-        return a * b;
-    }
 
-    // Divides the first integer by the second and returns the quotient.
-    // Throws ArithmeticException if b is zero.
-    public int divide(int a, int b) {
-        if (b == 0) {
-            throw new ArithmeticException("Division by zero is not allowed.");
-        }
-        return a / b;
-    }
+    // Create a method to Multiply two integers and returns the product.
+
+
+
+    // Create a method that Divides the first integer by the second and returns the quotient.
+    // and Throws ArithmeticException if the second int is zero!
+
+
+    // Create any other method that you want (Does not have to be related to a calulator!)
+
 }
